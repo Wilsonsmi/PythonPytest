@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="IA-977-Wilson" name="pytest" skipped="0" tests="4" time="12.290" timestamp="2020-02-27T12:05:13.116765"><testcase classname="Test_Demo.TestExampleOne" file="../../pythonpytestautomationweb/TestCasess/Test_Demo.py" line="35" name="test_WV00000" time="3.226"><system-out>setUpClass started
+Successfully created the directory
+setUpClass END
+initiating chrome driverd
+setup ended
+</system-out></testcase><testcase classname="Test_Demo.TestExampleOne" file="../../pythonpytestautomationweb/TestCasess/Test_Demo.py" line="53" name="test_title" time="3.082"><system-out>initiating chrome driverd
+setup ended
+Tricog Viewer
+</system-out></testcase><testcase classname="Test_Demo.TestExampleOne" file="../../pythonpytestautomationweb/TestCasess/Test_Demo.py" line="69" name="test_title1" time="2.975"><system-out>initiating chrome driverd
+setup ended
+Tricog Viewer
+</system-out></testcase><testcase classname="Test_Demo.TestExampleOne" file="../../pythonpytestautomationweb/TestCasess/Test_Demo.py" line="81" name="test_title3" time="2.992"><system-out>initiating chrome driverd
+setup ended
+Tricog Viewer
+setUpClass_yield
+</system-out></testcase></testsuite></testsuites>
